@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">exApp</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="rejestruj_konto">Rejestruj Konto</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="powtorz_haslo">Powtorz Haslo</string>
+    <string name="podaj_haslo">Podaj Haslo</string>
+    <string name="podaj_e_mail">Podaj e-mail</string>
+    <string name="zatwierdz">ZATWIERDZ</string>
+    <string name="autor">Autor</string>
+</resources>
